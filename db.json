@@ -1,5 +1,5 @@
 {
-  domiciliacion:{
+  "domiciliacion":{
     "saldoMensual": 3000,
     "productoAfore": null,
     "productoInversiones": {
