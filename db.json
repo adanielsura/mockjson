@@ -1,0 +1,40 @@
+{
+  domiciliacion:{
+    "saldoMensual": 3000,
+    "productoAfore": null,
+    "productoInversiones": {
+        "status": 0,
+        "mensaje": "Operación exitosa",
+        "activas": 1,
+        "disponibles": 1,
+        "producto": "INVERSIONES",
+        "saldoMensual": {
+            "valor": 3000,
+            "label": "Mensual"
+        },
+        "domiciliaciones": [
+            {
+                "type": "DomiciliacionFondosItemDto",
+                "id": "2",
+                "nombre": "RODRIGO SANDOVAL ROMERO",
+                "periodicidad": "Mensual",
+                "diasDeCargo": "30",
+                "cuentaClabe": "Clabe - **************8433 BANAMEX RODRIGO SANDOVAL ROMERO",
+                "monto": 3000,
+                "actions": [
+                    {
+                        "tipo": "Modificar",
+                        "estado": "Activo",
+                        "codeError": ""
+                    },
+                    {
+                        "tipo": "Eliminar",
+                        "estado": "Activo",
+                        "codeError": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
+}
